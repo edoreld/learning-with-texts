@@ -26,6 +26,26 @@
 *   [View the Changelog.](#history)
 *   [Download.](https://github.com/edoreld/learning-with-texts/releases/tag/v.1.6.2)
 
+* [Preface](#preface)  
+* [Curr. Version](#current)  
+* [Links](#links)  
+* [Abstract](#abstract)  
+* [Features](#features)  
+* [Restrictions](#restrictions)  
+* [(Un-) License](#license)  
+* [Disclaimer](#disclaimer)  
+* 
+* [Installation](#install)  
+* [How to learn](#learn)  
+* [How to use](#howto)  
+* [Q & A](#faq)  
+* 
+* [Setup Tablets](#ipad)  
+* [Lang. Setup](#ipad)  
+* [Term Scores](#termscores)  
+* [Key Bindings](#keybind)  
+* [Changelog](#history)</div>
+
 </dd>
 
 <dt>▶ **<a name="links" id="links">Important Links</a>**</dt>
