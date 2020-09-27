@@ -22,24 +22,16 @@
 
 <dd>
 
-*   The current version is **1.6.2** (March 10 2018, this page "info.htm" last updated August 12 2019).
-*   [View the Changelog.](#history)
-*   [Download.](https://github.com/edoreld/learning-with-texts/releases/tag/v.1.6.2)
+- [Download.](https://github.com/edoreld/learning-with-texts/releases/tag/v.1.6.2)
+- [Installation](#install)    
 
-- [Preface](#preface)  
-- [Curr. Version](#current)  
-- [Links](#links)  
-- [Abstract](#abstract)  
-- [Features](#features)  
-- [Restrictions](#restrictions)  
-- [(Un-) License](#license)  
-- [Disclaimer](#disclaimer)  
-- [Installation](#install)  
 - [How to learn](#learn)  
 - [How to use](#howto)  
+
 - [Q & A](#faq)  
 - [Setup Tablets](#ipad)  
 - [Lang. Setup](#ipad)  
+
 - [Term Scores](#termscores)  
 - [Key Bindings](#keybind)  
 - [Changelog](#history)</div>
