@@ -4,7 +4,7 @@
 
 <dl>
 
-<dt>▶ **<a name="preface" id="preface">Preface</a>** - [[↑]](#)</dt>
+<dt>▶ **<a name="preface" id="preface">Preface</a>**</dt>
 
 <dd>
 
@@ -18,7 +18,7 @@
 
 </dd>
 
-<dt>▶ **<a name="current" id="current">Current Version</a>** - [[↑]](#)</dt>
+<dt>▶ **<a name="current" id="current">Current Version</a>**</dt>
 
 <dd>
 
@@ -27,7 +27,7 @@
 
 </dd>
 
-<dt>▶ **<a name="links" id="links">Important Links</a>** - [[↑]](#)</dt>
+<dt>▶ **<a name="links" id="links">Important Links</a>**</dt>
 
 <dd>
 
@@ -70,7 +70,7 @@
 
 </dd>
 
-<dt>▶ **<a name="abstract" id="abstract">Abstract</a>** - [[↑]](#)</dt>
+<dt>▶ **<a name="abstract" id="abstract">Abstract</a>**</dt>
 
 <dd>
 
@@ -104,7 +104,7 @@
 
 </dd>
 
-<dt>▶ **<a name="features" id="features">Features</a>** - [[↑]](#)</dt>
+<dt>▶ **<a name="features" id="features">Features</a>**</dt>
 
 <dd>
 
@@ -128,7 +128,7 @@
 
 </dd>
 
-<dt>▶ **<a name="restrictions" id="restrictions">Restrictions</a>** - [[↑]](#)</dt>
+<dt>▶ **<a name="restrictions" id="restrictions">Restrictions</a>**</dt>
 
 <dd>
 
@@ -136,7 +136,7 @@
 
 </dd>
 
-<dt>▶ **<a name="license" id="license">(Un-) License</a>** - [[↑]](#)</dt>
+<dt>▶ **<a name="license" id="license">(Un-) License</a>**</dt>
 
 <dd>
 
@@ -169,7 +169,7 @@
 
 </dd>
 
-<dt>▶ **<a name="disclaimer" id="disclaimer">Disclaimer</a>** - [[↑]](#)</dt>
+<dt>▶ **<a name="disclaimer" id="disclaimer">Disclaimer</a>**</dt>
 
 <dd>
 
@@ -177,7 +177,7 @@
 
 </dd>
 
-<dt>▶ **<a name="install" id="install">Installation on MS Windows, macOS, Linux</a>** - [[↑]](#)</dt>
+<dt>▶ **<a name="install" id="install">Installation on MS Windows, macOS, Linux</a>**</dt>
 
 <dd>
 
@@ -185,7 +185,7 @@
 
 </dd>
 
-<dt>▶ **<a name="learn" id="learn">How to learn with LWT</a>** - [[↑]](#)</dt>
+<dt>▶ **<a name="learn" id="learn">How to learn with LWT</a>**</dt>
 
 <dd>
 
@@ -205,7 +205,7 @@
 
 </dd>
 
-<dt>▶ **<a name="howto" id="howto">How to use</a>** - [[↑]](#)</dt>
+<dt>▶ **<a name="howto" id="howto">How to use</a>**</dt>
 
 <dd>
 
@@ -494,7 +494,7 @@
 
 </dd>
 
-<dt>▶ **<a name="faq" id="faq">Questions and Answers</a>** - [[↑]](#)</dt>
+<dt>▶ **<a name="faq" id="faq">Questions and Answers</a>**</dt>
 
 <dd>
 
@@ -533,7 +533,7 @@
 
 </dd>
 
-<dt>▶ **<a name="ipad" id="ipad">Setup for Tablets</a>** - [[↑]](#)</dt>
+<dt>▶ **<a name="ipad" id="ipad">Setup for Tablets</a>**</dt>
 
 <dd>
 
@@ -545,7 +545,7 @@
 
 </dd>
 
-<dt>▶ **<a name="langsetup" id="langsetup">Language Setup</a>** - [[↑]](#)</dt>
+<dt>▶ **<a name="langsetup" id="langsetup">Language Setup</a>**</dt>
 
 <dd>
 
@@ -710,7 +710,7 @@
 
 </dd>
 
-<dt>▶ **<a name="termscores" id="termscores">Term Scores</a>** - [[↑]](#)</dt>
+<dt>▶ **<a name="termscores" id="termscores">Term Scores</a>**</dt>
 
 <dd>
 
@@ -732,7 +732,7 @@
 
 </dd>
 
-<dt>▶ **<a name="keybind" id="keybind">Key Bindings</a>** - [[↑]](#)</dt>
+<dt>▶ **<a name="keybind" id="keybind">Key Bindings</a>**</dt>
 
 <dd>
 
@@ -930,7 +930,7 @@
 
 </dd>
 
-<dt>▶ **<a name="history" id="history">Changelog</a>** - [[↑]](#)</dt>
+<dt>▶ **<a name="history" id="history">Changelog</a>**</dt>
 
 <dd>
 
