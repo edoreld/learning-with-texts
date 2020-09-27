@@ -1,7 +1,7 @@
 <div style="margin-right:100px;">
 
 #### [![Logo](img/lwt_icon_big.png)Learning with Texts](index.php)  
-
+<br>
 <div class="bigger">Help/Information</div>
 
 Jump to topic: <select id="topicjump" onchange="{var qm = document.getElementById('topicjump'); var val=qm.options[qm.selectedIndex].value; qm.selectedIndex=0; if (val != '') { location.href = '#' + val;}}"><option value="" selected="selected">[Select...]</option> <option value="preface">Preface</option> <option value="current">Current Version</option> <option value="links">Links</option> <option value="abstract">Abstract</option> <option value="features">Features</option> <option value="restrictions">Restrictions</option> <option value="license">(Un-) License</option> <option value="disclaimer">Disclaimer</option> <option value="install">Installation</option> <option value="learn">How to learn</option> <option value="howto">How to use</option> <option value="faq">Questions and Answers</option> <option value="ipad">Setup for Tablets</option> <option value="langsetup">Language Setup</option> <option value="termscores">Term Scores</option> <option value="keybind">Key Bindings</option> <option value="history">Changelog</option></select>
