@@ -24,6 +24,7 @@
 
 *   The current version is **1.6.2** (March 10 2018, this page "info.htm" last updated August 12 2019).
 *   [View the Changelog.](#history)
+*   [Download.](https://github.com/edoreld/learning-with-texts/releases/tag/v.1.6.2)
 
 </dd>
 
