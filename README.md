@@ -1,5 +1,3 @@
-<script type="text/javascript">//<![CDATA[ $(document).ready( function() { $('#floatdiv').addFloating( { targetRight: 10, targetTop: 10, snap: true } ); }); //]]></script>
-
 <div style="margin-right:100px;">
 
 #### [![Logo](img/lwt_icon_big.png)Learning with Texts](index.php)  
