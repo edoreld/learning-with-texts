@@ -1,8 +1,6 @@
 <div style="margin-right:100px;">
 
-#### [![Logo](img/lwt_icon_big.png)Learning with Texts](index.php)  
-<br>
-<div class="bigger">Help/Information</div>
+#### [![Logo](img/lwt_icon_big.png)](index.php)  
 
 Jump to topic: <select id="topicjump" onchange="{var qm = document.getElementById('topicjump'); var val=qm.options[qm.selectedIndex].value; qm.selectedIndex=0; if (val != '') { location.href = '#' + val;}}"><option value="" selected="selected">[Select...]</option> <option value="preface">Preface</option> <option value="current">Current Version</option> <option value="links">Links</option> <option value="abstract">Abstract</option> <option value="features">Features</option> <option value="restrictions">Restrictions</option> <option value="license">(Un-) License</option> <option value="disclaimer">Disclaimer</option> <option value="install">Installation</option> <option value="learn">How to learn</option> <option value="howto">How to use</option> <option value="faq">Questions and Answers</option> <option value="ipad">Setup for Tablets</option> <option value="langsetup">Language Setup</option> <option value="termscores">Term Scores</option> <option value="keybind">Key Bindings</option> <option value="history">Changelog</option></select>
 
@@ -38,14 +36,6 @@ Jump to topic: <select id="topicjump" onchange="{var qm = document.getElementByI
 *   [**Project Page** @ Sourceforge](http://sourceforge.net/projects/lwt/)
 *   [**Download Page** @ Sourceforge](http://sourceforge.net/projects/lwt/files/)
 *   [**Help Forum** @ Sourceforge](http://sourceforge.net/projects/lwt/forums/forum/1813497)  
-
-*   **LWT Online Demo** - **try it out:**
-    *   **General Hints:**
-        *   Do not use for productive work!!
-        *   Your data may be deleted at any time by other users!!
-        *   Only one LWT table set is available - the multiple table set feature has been deactivated.
-        *   You may "reset" the demo by going to "Backup/Restore", and by clicking on "Install LWT Demo Database".
-    *   [**START ONLINE DEMO**](http://lwt.sourceforge.net/testdb/) (at sourceforge.net, User ID = **lwt**, Password = **lwt**)  
 
 *   **LWT Reviews and Blog Posts**
     *   [The Mezzofanti Guild: How To Install Learning With Texts On Your Own Computer](https://www.mezzoguild.com/how-to-install-learning-with-texts-lwt/)
@@ -966,31 +956,3 @@ Jump to topic: <select id="topicjump" onchange="{var qm = document.getElementByI
 *   1.6.0 (January 28 2016):  
     As mysql_* database calls are deprecated and are no longer supported by PHP, they have been changed to the corresponding mysqli_* calls. If you run a server with PHP version 7.0.0 or higher, you MUST use LWT 1.6.0 or higher. Thanks to Laurens Vercaigne for his work!  
     Debugging updated. Status information on start page improved. Documentation updated.  
-
-</dd>
-
-</dl>
-
-<table>
-
-<tbody>
-
-<tr>
-
-<td class="width50px">[![Public Domain](img/public_domain.png)](http://en.wikipedia.org/wiki/Public_domain_software)</td>
-
-<td>
-
-["Learning with Texts" (LWT)](http://sourceforge.net/projects/lwt/) is released into the Public Domain. This applies worldwide.  
-In case this is not legally possible, any entity is granted the right to use this work for any purpose,  
-without any conditions, unless such conditions are required by law.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
