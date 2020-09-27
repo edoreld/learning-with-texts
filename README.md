@@ -1,25 +1,3 @@
-<div id="floatdiv" style="position:absolute; width:auto; height:auto; top:10px; right:10px; padding:5px; background:#DDDDDD; border:1px solid #888888; z-index:100;  font-size: 10pt; text-align:center;">[↑ TOP ↑](#)  
-
-[Preface](#preface)  
-[Curr. Version](#current)  
-[Links](#links)  
-[Abstract](#abstract)  
-[Features](#features)  
-[Restrictions](#restrictions)  
-[(Un-) License](#license)  
-[Disclaimer](#disclaimer)  
-
-[Installation](#install)  
-[How to learn](#learn)  
-[How to use](#howto)  
-[Q & A](#faq)  
-
-[Setup Tablets](#ipad)  
-[Lang. Setup](#ipad)  
-[Term Scores](#termscores)  
-[Key Bindings](#keybind)  
-[Changelog](#history)</div>
-
 <script type="text/javascript">//<![CDATA[ $(document).ready( function() { $('#floatdiv').addFloating( { targetRight: 10, targetTop: 10, snap: true } ); }); //]]></script>
 
 <div style="margin-right:100px;">
