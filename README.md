@@ -23,7 +23,6 @@ The documentation is better presented [here](https://edoreld.github.io/learning-
 
 <dd>
 
-- [Download.](https://github.com/edoreld/learning-with-texts/releases/tag/v.1.6.2)
 - [Installation](#install)    
 
 - [How to learn](#learn)  
@@ -43,9 +42,7 @@ The documentation is better presented [here](https://edoreld.github.io/learning-
 
 <dd>
 
-*   [**Project Page** @ Sourceforge](http://sourceforge.net/projects/lwt/)
-*   [**Download Page** @ Sourceforge](http://sourceforge.net/projects/lwt/files/)
-*   [**Help Forum** @ Sourceforge](http://sourceforge.net/projects/lwt/forums/forum/1813497)  
+*   [**Download](https://github.com/edoreld/learning-with-texts/releases/tag/v.1.6.2)
 
 *   **LWT Reviews and Blog Posts**
     *   [The Mezzofanti Guild: How To Install Learning With Texts On Your Own Computer](https://www.mezzoguild.com/how-to-install-learning-with-texts-lwt/)
