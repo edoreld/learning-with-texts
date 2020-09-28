@@ -2,7 +2,6 @@
 
 #### [![Logo](img/lwt_icon_big.png)](index.php)  
 
-The documentation is better presented [here](https://edoreld.github.io/learning-with-texts/)
 <dl>
 
 <dt>▶ **<a name="preface" id="preface">Preface</a>**</dt>
