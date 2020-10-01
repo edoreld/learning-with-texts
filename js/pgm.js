@@ -285,12 +285,12 @@ function make_overlib_link_edit_word_title(text,txid,torder,wid) {
 }
 
 function make_overlib_link_delete_word(txid,wid) {
-	return ' <a href=\x22delete_word.php?wid=' +
+	return ' <a onclick=\x22return confirmDelete();\x22 href=\x22delete_word.php?wid=' +
 		wid + '&amp;tid=' + txid + '\x22 target=\x22ro\x22>Delete term</a> ';
 }
 
 function make_overlib_link_delete_multiword(txid,wid) {
-	return ' <a href=\x22delete_mword.php?wid=' +
+	return ' <a onclick=\x22return confirmDelete();\x22 href=\x22delete_mword.php?wid=' +
 		wid + '&amp;tid=' + txid + '\x22 target=\x22ro\x22>Delete term</a> ';
 }
 

@@ -61,7 +61,7 @@ function containsCharacterOutsideBasicMultilingualPlane(s) {
 }
 
 function alertFirstCharacterOutsideBasicMultilingualPlane(s,info) {
-	const match = /[\uD800-\uDFFF]/.exec(s);
+	var match = /[\uD800-\uDFFF]/.exec(s);
 	if (match) {
 		alert('ERROR\n\nText "' + info + '" contains invalid character(s) (in the Unicode Supplementary Multilingual Planes, > U+FFFF) like emojis or very rare characters.\n\nFirst invalid character: "' + s.substring(match.index, match.index+2) + '" at position ' + (match.index+1) + '.\n\nMore info: https://en.wikipedia.org/wiki/Plane_(Unicode)\n\nPlease remove this/these character(s) and try again.');
     return 1;
@@ -227,6 +227,10 @@ function markClick() {
 	} else {
 		$('#markaction').attr('disabled','disabled');
 	}
+}
+
+function confirmDelete() {
+	return confirm('CONFIRM\n\nAre you sure you want to delete?');
 }
 
 function showallwordsClick() {
@@ -625,6 +629,7 @@ $(document).ready( function() {
 	$('input.impr-ann-radio').change(changeImprAnnRadio);
 	$('form.validate').submit(check);
 	$('input.markcheck').click(markClick);
+	$('.confirmdelete').click(confirmDelete);
 	$('#showallwords').click(showallwordsClick);
 	$('textarea.textarea-noreturn').keydown(textareaKeydown);
 	$('#termtags').tagit(
