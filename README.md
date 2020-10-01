@@ -33,7 +33,6 @@
 
 - [Term Scores](#termscores)  
 - [Key Bindings](#keybind)  
-- [Changelog](#history)</div>
 
 </dd>
 
@@ -937,28 +936,3 @@
     </table>
 
 </dd>
-
-<dt>▶ **<a name="history" id="history">Changelog</a>**</dt>
-
-<dd>
-
-*   1.6.2 (March 10 2018, this page "info.htm" last updated August 12 2019):  
-    New features:  
-    Audio playback speed can now be set between 0.5x and 1.5x.  
-    Waiting wheel (to indicate saving data to database in the background) added in "Edit Improved Annotated Text".  
-    Checking for characters in the Unicode Supplementary Multilingual Planes (> U+FFFF) like emojis or very rare characters improved/added. Such characters are currently not supported.  
-    Updates/bug fixes:  
-    jQuery library updated to v1.12.4.  
-    "Mobile_Detect.php" updated to v2.8.30.  
-    LWT demo database updated.  
-    Documentation updated.  
-    Some minor glitches fixed.  
-    Glosbe API calls via "glosbe_api.php" in demo database and language settings wizard removed - they often did not work due to API restrictions. The file "glosbe_api.php" is still supplied as an example of a close integration of a dictionary API into LWT.  
-
-*   1.6.1 (February 01 2016, this page "info.htm" last updated January 13 2018):  
-    The jQuery and jPlayer libraries have been updated to v1.12.0 and v2.9.2, respectively. The jQuery.ScrollTo package has been updated to v2.1.2.  
-    [Link](#links) to Chinese text segmentation "Jieba" added in documentation (Important Links - Additional Resources - For learners of Chinese).  
-
-*   1.6.0 (January 28 2016):  
-    As mysql_* database calls are deprecated and are no longer supported by PHP, they have been changed to the corresponding mysqli_* calls. If you run a server with PHP version 7.0.0 or higher, you MUST use LWT 1.6.0 or higher. Thanks to Laurens Vercaigne for his work!  
-    Debugging updated. Status information on start page improved. Documentation updated.  
