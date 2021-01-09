@@ -40,7 +40,7 @@
 
 <dd>
 
-*   [**Download](https://github.com/edoreld/learning-with-texts/releases/tag/v.1.6.2)
+*   [**Download](https://github.com/edoreld/learning-with-texts/releases/tag/latest)
 
 *   **LWT Reviews and Blog Posts**
     *   [The Mezzofanti Guild: How To Install Learning With Texts On Your Own Computer](https://www.mezzoguild.com/how-to-install-learning-with-texts-lwt/)
