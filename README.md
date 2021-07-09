@@ -1,3 +1,5 @@
+Mirror of version 1.6.3 of the Sourceforge-hosted [LWT project](https://sourceforge.net/projects/learning-with-texts/). 
+
 <div style="margin-right:100px;">
 
 #### [![Logo](img/lwt_icon_big.png)](index.php)  
